@@ -1,27 +1,40 @@
-# Core AI and LLM libraries
-langchain
-langchain-core 
+# Requirements for Streamlit Cloud deployment
+# Core dependencies for AI Scheduling Agent
+# LangChain and LangGraph
 langchain-groq
+langchain-core
 langgraph
-langchain-community
 
-# Groq API
-groq
+# Data processing
+pandas
+numpy
 
-# Web framework
+# Date/time handling
+python-dateutil
+
+# Environment variables
+python-dotenv
+
+# Streamlit (automatically included by Streamlit Cloud)
 streamlit
 
-# Data processing and Excel
-pandas
-openpyxl
+# Email functionality
+secure-smtplib  # For enhanced SMTP security
 
+# Optional: Faker (may cause issues on Streamlit Cloud)
+# faker>=18.0.0
 
-# Data generation for testing
-faker==37.6.0
-
-# Additional utilities
+# Type hints
 typing-extensions
-pydantic
 
-# JSON processing
-jsonschema
+# UUID generation (usually built-in)
+# uuid
+
+# Regular expressions (built-in)
+# re
+
+# JSON handling (built-in)
+# json
+
+# OS operations (built-in)
+# os
