@@ -112,9 +112,5 @@ def main():
             st.session_state.conversation_history.append({"role": "assistant", "content": error_message})
         st.rerun()
 
-    with st.expander("🔧 Debug Information (Development Only)"):
-        # --- CORRECTED: Get the live state from the agent ---
-        st.json(st.session_state.agent.get_workflow_state())
-
 if __name__ == "__main__":
     main()
