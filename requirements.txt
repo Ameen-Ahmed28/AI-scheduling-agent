@@ -1,0 +1,27 @@
+# Core AI and LLM libraries
+langchain
+langchain-core 
+langchain-groq
+langgraph
+langchain-community
+
+# Groq API
+groq
+
+# Web framework
+streamlit
+
+# Data processing and Excel
+pandas
+openpyxl
+
+
+# Data generation for testing
+faker==37.6.0
+
+# Additional utilities
+typing-extensions
+pydantic
+
+# JSON processing
+jsonschema
