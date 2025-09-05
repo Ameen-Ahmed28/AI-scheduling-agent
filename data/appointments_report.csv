@@ -1,0 +1,12 @@
+appointment_id,patient_first_name,patient_last_name,patient_dob,patient_phone,patient_email,patient_location,doctor_name,appointment_date,appointment_time,duration_minutes,is_returning_patient,insurance_carrier,insurance_member_id,insurance_group_number,created_at,status,cancellation_reason,cancelled_at
+AA681054,Danielle,Johnson,1954-10-01,+1-219-560-0133,danielle.johnson@example.com,"123 Health St, Wellness City, 12345",Dr. Emily Chen,2025-09-10,09:00,30,True,Kaiser Permanente,430-29-7360,717889.0,2025-08-29 05:46:30,Confirmed,,
+F37C850F,Joshua,Booth,1990-01-24,651.216.1559,joshua.booth@example.org,"456 Care Ave, Remedy Town, 67890",Dr. David Rodriguez,2025-09-11,14:30,60,False,UnitedHealthcare,550-16-6202,182627.0,2025-08-30 05:46:30,Confirmed,,
+FFD30597,Sarah,Williams,1985-06-15,555-123-4567,sarah.williams@email.com,"789 Medical Blvd, Health Valley, 11111",Dr. Emily Chen,2025-09-12,11:00,30,True,Blue Cross Blue Shield,123-45-6789,987654.0,2025-09-02 05:46:30,Confirmed,,
+A86743B8,Michael,Davis,1992-03-20,444-567-8901,michael.davis@gmail.com,"321 Clinic Dr, Medicine City, 22222",Dr. Emily Chen,2025-09-09,15:30,60,False,Aetna,987-65-4321,123456.0,2025-09-01 05:46:30,Cancelled,,
+877DF5A1,Sarah,Williams,1985-06-15,,sarah.williams@email.com,"789 Medical Blvd, Health Valley, 11111",Dr. Emily Chen,2025-09-08,09:30,30,True,Blue Cross Blue Shield,123-45-6789,987654.0,2025-09-04 11:53:34,Confirmed,,
+671189E5,okay,Ahmed,2005-03-28,,ameen280305@gmail.com,"Anna Nagar, Tirupur.",Dr. David Rodriguez,2025-09-08,09:30,60,False,Self-Pay,,,2025-09-05 12:16:18,Confirmed,,
+9C98A00C,I,Tirupur,2005-03-28,,ameen280305@gmail.com,"Anna Nagar,Tirupur",Dr. Emily Chen,2025-09-08,09:00,60,False,Self-Pay,,,2025-09-05 12:52:07,Confirmed,,
+4DA03CE0,Like,To,2004-11-15,,prathiksha.al22@bitsathy.ac.in,"Perundurai, Erode",Dr. Emily Chen,2025-09-08,09:30,60,False,Self-Pay,,,2025-09-05 15:09:08,Confirmed,,
+477D7C37,Arnold,A,2004-03-28,,ameen280305@gmail.com,"6th Raja Street, Tirupur",Dr. David Rodriguez,2025-09-08,09:00,60,False,Self-Pay,,,2025-09-05 15:18:35,Cancelled,Patient requested cancellation via AI assistant,2025-09-05 15:20:02
+289437FB,Prathiksha,S,2004-11-15,,prathiksha.al22@bitsathy.ac.in,"Perundurai, Erode.",Dr. David Rodriguez,2025-09-08,09:00,60,False,Self-Pay,,,2025-09-05 15:25:08,Confirmed,,
+F78BD357,Ameen,Ahmed,2005-03-28,,ameen280305@gmail.com,ameen280305@gmail.com,Dr. Emily Chen,2025-09-08,10:00,60,False,Self-Pay,,,2025-09-05 16:34:15,Cancelled,Patient requested cancellation via AI assistant,2025-09-05 16:35:53
