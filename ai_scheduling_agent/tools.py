@@ -42,7 +42,7 @@ class SchedulingTools:
         try:
             from faker import Faker
             fake = Faker()
-            fake.seed(42)
+            # fake.seed(42)
             
             data = []
             for i in range(50):
