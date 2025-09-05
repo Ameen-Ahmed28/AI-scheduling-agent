@@ -5,6 +5,4 @@ pycache/
 
 .env 
 
-/data/patients.csv
-/data/doctor_schedules.csv
-/data/appointments_report.csv
+
